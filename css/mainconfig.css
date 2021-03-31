@@ -1,3 +1,42 @@
-.menu {
-  background-color: #b3d4fc;
+body {
+  background-color:#F6F7F8!important;
 }
+
+.menu {
+  background-color: #246A73;
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 10px;
+
+}
+.nav-item {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.nav-link {
+  color: #ffffff;
+}
+#carouselExampleControls {
+    margin-top: 2%;
+
+}
+.carousel-item {
+  height: 700px;
+  text-align: center;
+}
+.presentation {
+  display: inline-flex!important;
+  margin-top: 2%;
+  margin-left: 20%;
+  margin-right: %;
+}
+.card {
+  margin-right: 1%;
+}
+#button {
+  background-color:#246A73 ;
+  border-color: #246A73;
+  margin-left: 50px!important;
+}
+
